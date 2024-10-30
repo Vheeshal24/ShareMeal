@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "801818982725",
+    "firebase_url": "https://homemeals-d4346-default-rtdb.firebaseio.com",
+    "project_id": "homemeals-d4346",
+    "storage_bucket": "homemeals-d4346.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801818982725:android:484f8f1923da2f7ff4e62c",
+        "android_client_info": {
+          "package_name": "com.vheeshal.homemeals"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALKCh08z3LPFFiJCVqgBZ2mYy47_WPd2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
